@@ -22,5 +22,5 @@ xpert learning assistant
 tutors
 instructors
 
-github repo:
-link to walk through video:
+github repo: https://github.com/AndrewBrown77/mongo-network
+link to walk through video: https://drive.google.com/file/d/1-W4l7MhrjS6Q4iKC27sdX_jw9B9Wh656/view
